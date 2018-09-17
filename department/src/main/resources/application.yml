@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: department
+  data:
+    mongodb:
+      uri: mongodb://${MONGO_USERNAME}:${MONGO_PASSWORD}@mongodb/${MONGO_DATABASE}
+#      uri: mongodb://my_user:password123@localhost:27017/my_database
