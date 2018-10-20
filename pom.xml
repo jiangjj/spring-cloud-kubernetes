@@ -39,6 +39,7 @@
         <module>employee</module>
         <module>organization</module>
         <module>department</module>
+        <module>gateway</module>
     </modules>
 
     <dependencies>

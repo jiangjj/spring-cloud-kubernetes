@@ -1,0 +1,8 @@
+zuul:
+  routes:
+    department:
+      path: /department/**
+    employee:
+      path: /employee/**
+    organization:
+      path: /organization/**
